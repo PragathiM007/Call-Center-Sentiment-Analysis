@@ -1,0 +1,609 @@
+start,end,speakerId,content,speakerIndex,duration,primaryType_Noise,primaryType_PII,primaryType_Speech,sentiment_score
+0.41,0.98,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,martin!,1,0.5700000000000001,False,False,True,0.0
+0.98,2.8,unknown,unknown,nan,1.8199999999999998,True,False,False,0.0
+2.8,7.64,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"hi, #[overlap_start] this is #[overlap_end] from #[keyboard-noise] reservations department. yes, hello! can you hear me?",2,4.84,False,False,True,0.4574
+3.2,3.72,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#[overlap_start] hello? #[overlap_end],1,0.52,False,False,True,0.0
+8.63,10.03,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"i'm here. yes, i hear you.",1,1.3999999999999986,False,False,True,0.4019
+11.07,11.38,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"hi, this",2,0.3100000000000005,False,False,True,0.0
+11.38,14.53,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[pii-work],2,3.1499999999999986,False,True,False,0.0
+15.24,17.24,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[overlap_start] i'm calling #[overlap_end] regarding the reservation,2,1.9999999999999982,False,False,True,0.0
+15.54,15.93,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#[overlap_start] hi #[overlap_end],1,0.39000000000000057,False,False,True,0.0
+17.24,21.37,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"two one #[overlap_start] nine six three nine (()) may i'm speaking to christian, right? #[overlap_end]",2,4.130000000000003,False,False,True,0.0
+17.68,26.55,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"#[overlap_start] wait, wait, wait. yeah, yeah, hold hold hold on one #[overlap_end] #[keyboard-noise] hold on one second before (()). hi, #[noise] okay. #er yeah, i'm sorry, go ahead.",1,8.870000000000001,False,False,True,0.7351
+26.55,27.85,unknown,unknown,nan,1.3000000000000007,True,False,False,0.0
+27.85,33.65,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"no problem. before we proceed, i just want to inform you that the call is being recorded for quality assurance and training purposes.",2,5.799999999999997,False,False,True,-0.296
+33.65,34.93,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"sure, #[breath] okay.",1,1.2800000000000011,False,False,True,0.4939
+35.6,43.15,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"i understand #um martin, that you are looking for assistance with confirming a reservation?",2,7.549999999999997,False,False,True,0.0
+44.28,57.41,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"no, we're no, we're not, we're not looking for that anymore, because i made very clear that when we receive that, we realized that we got to, we got to the reservation is almost over two hou~ more than two hours ago.",1,13.129999999999995,False,False,True,-0.1298
+58.21,62.04,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and i got there and they said that we, they didn't have the reservation in my name,",1,3.8299999999999983,False,False,True,0.0
+62.62,73.71000000000001,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and i said, well, we were supposed to get there last night and they didn't have it last night and he said, this isn't the right reservation number for (()) and maybe they made the reservation somewhere else.",1,11.09000000000001,False,False,True,0.34
+74.48,79.13,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and i said, well, no, they shouldn't have because clearly, i made a reservation to (()).",1,4.6499999999999915,False,False,True,-0.3309
+79.77,84.71000000000001,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and so, did she contacted you guys? and she was on chat with somebody,",1,4.940000000000012,False,False,True,0.0
+85.03,96.56,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"(()) with somebody. but when i when i called the number, i called your number, i kept getting directed to a number that would say, put the right pin code in and when i did it hung up on me.",1,11.530000000000001,False,False,True,0.3291
+96.56,102.63,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,and that happened to her and happened to be three times in a row. so i was never able to get from the person to talk to you.,1,6.069999999999993,False,False,True,0.0
+103.14,108.46000000000001,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and so what i did was, i just said the heck with this and i and i just rented the car from (()) directly.",1,5.320000000000007,False,False,True,0.0
+109.08,112.78,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so that's ((so)), i wanna i wanna i would like to get a refund because",1,3.700000000000003,False,False,True,0.3612
+113.5,125.21,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"it was it was it was handled #[keyboard-noise] improperly by you guys. and the most important, the most upsetting is i'm supposed to be selling and promoting your services. i'm not i'm not just a customer.",1,11.709999999999994,False,False,True,0.0516
+125.57,127.42,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"i'm an i'm a distributor, i'm an consultant.",1,1.8500000000000085,False,False,True,0.0
+127.99,140.46,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so the fact that, i'm having now. #[noise] i've had multiple good experiences with you guys lately not that i would quit, but, but if i had one of my customers go through the experience i just went through,",1,12.470000000000013,False,False,True,0.2382
+140.97,144.43,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"it would be, it would be worse than embarrassing, it will be humiliating.",1,3.460000000000008,False,False,True,-0.7845
+144.6,152.93,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so, so for me, if it was to happen to me, i can live with it with eighty-six dollars. but but the idea that somebody would come to a rental counter,",1,8.330000000000013,False,False,True,0.0
+153.24,159.32999999999998,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"expect to have their car have it all there, then realize that you that you didn't even have the right reservation number,",1,6.089999999999975,False,False,True,0.0772
+159.8,167.16,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"the~ the~ (()) then you have, and then, and then, and then the fact that i couldn't even get to the customer service person, and that that's just totally wrong.",1,7.359999999999985,False,False,True,-0.5256
+167.44,172.62,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"yeah, and i understand. i really apologize for the inconveniences here that caused #[breath] to you.",2,5.180000000000007,False,False,True,0.4391
+172.62,178.78,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"#um martin, just one quick question, you went to pick up your vehicle today and not yesterday?",2,6.159999999999997,False,False,True,0.0
+179.79,189.35,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"we did because we, ou~ our flight was canceled last night. so we got we got to review we got our connecting flight in #[phatic] detroit and a flight it was because of weather delays.",1,9.560000000000002,False,False,True,0.0
+189.93,195.58,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"the plane got there one thirty in the morning. and #[phatic] the pilot couldn't fly anymore, so they went to get us into the crew but they couldn't.",1,5.650000000000006,False,False,True,0.0
+196.16,204.48,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so they, they couldn't get a crew until six thirty this morning, so they put us up in a hotel we left at six thirty until we got it we got here to las vegas is at nine.",1,8.319999999999993,False,False,True,0.0
+204.89,208.77,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[overlap_start] #[breath] and #[overlap_end] did you call the car rental company to inform them of this?,2,3.880000000000024,False,False,True,0.0
+204.89,206.41,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#[overlap_start] but but the (()) #[overlap_end],1,1.5200000000000102,False,False,True,0.0
+209.45,212.98,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"but at your reservation, #[overlap_start] it's not #[overlap_end] marked as no show. #[noise]",2,3.530000000000001,False,False,True,-0.4215
+210.4,211.14,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#[overlap_start] we call. #[overlap_end],1,0.7399999999999807,False,False,True,0.0
+214.32,217.88,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"it wasn't marked as no show, it wasn't marked, there was no a reservation in there at all.",1,3.5600000000000023,False,False,True,0.4168
+218.26,230.66,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"no, i mean, if you've got there possibly it was marked as no show and they don't have the reservation on file. that's why i'm asking, did you call them to inform? okay, you know, i'm gonna be able to pick it up until today because you know, our flight got delayed,",2,12.400000000000006,False,False,True,-0.5267
+230.66,234.87,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[noise] so that they don't mark it as no show and your reservation is not canceled.,2,4.210000000000008,False,False,True,-0.296
+235.71,236.27,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,i did.,1,0.5600000000000023,False,False,True,0.0
+236.64,237.77,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,who did you speak to?,2,1.1300000000000239,False,False,True,0.0
+238.44,244.47,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"i don't know who i spoke to. i didn't get a name. we were, you have to understand, we were in detroit, #[keyboard-noise] michigan.",1,6.030000000000001,False,False,True,0.0
+244.47,252.82,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"we were in an airport, we were waiting we were waiting to find that, we didn't find out until we weren't going to make it till one thirty in the morning. so it was already",1,8.349999999999994,False,False,True,0.0
+253.22,266.03,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"it was already almost tomorrow there. it's almost, it was almost midnight, here in las vegas by the time that happen. so, there was no, there was just a call to tell them we weren't coming. i didn't ask who i was talking to, i didn't think it mattered.",1,12.809999999999974,False,False,True,-0.3535
+266.6,268.9,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,and did they tell you that everything was okay?,2,2.2999999999999545,False,False,True,0.2263
+269.46,270.87,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,they did~ they didn't even,1,1.410000000000025,False,False,True,0.0
+271.61,277.19,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"i didn't (()) they asked me for reservation number, i told him the reservation number and they said, great, we'll put that on the record.",1,5.579999999999984,False,False,True,0.6908
+278.02,281.67,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,you gave them our reservation number and not the one on the confirmation letter?,2,3.650000000000034,False,False,True,0.0772
+282.26,284.63,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"the only, there was only one reservation number.",1,2.3700000000000045,False,False,True,0.0772
+284.94,291.14,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,nine three two whatever was six three seven. whate~ ((you know)) i only had one number on the on the letter on the #[noise] confirmation letter.,1,6.199999999999989,False,False,True,0.0772
+291.58,298.2,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"on the confirmation letter, there's a vendor reference number that's the number that you use to provide it to the rental company",2,6.6200000000000045,False,False,True,0.1531
+298.65,304.71,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"which is seven five one four nine two five two two, that's how they normally locate your reservation.",2,6.060000000000002,False,False,True,0.0
+305.16,311.69,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"the #[overlap_start] reason i'm asking all of this, martin is in order to properly look into the. sir the reason #[overlap_end]",2,6.529999999999973,False,False,True,0.0
+305.16,312.77,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"#[overlap_start] yeah, but that's not (()). wait, wait, wait, wait. (()) hold it, hold on. there there is (()) #[overlap_end] they cut this.",1,7.609999999999957,False,False,True,-0.2617
+312.9,324.1,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"the~ their vendor number is not, starts with starts with the letter h, or the letter h. that number you gave that you gave me, he told me that that is not there that they don't have any such number.",1,11.200000000000045,False,False,True,0.2263
+324.6,338.69,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"#[breath] yeah the reason i'm asking all this is because what happens is that in order for us to go ahead and request a refund, we need to have all the possibilities that were taken, you know, #[breath] everything so that we can know whether the car rental company will approve a refund or not.",2,14.089999999999975,False,False,True,0.296
+338.83,342.55,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#um what i'm going to go ahead and do is i'm going to go ahead and submit the request.,2,3.7200000000000273,False,False,True,0.0
+342.55,347.05,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,do you have the receipt #[lipsmack] for the new reservation that you booked?,2,4.5,False,False,True,0.0
+347.08,347.56,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,yes.,1,0.4800000000000182,False,False,True,0.4019
+347.74,351.0,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"can you send it over to me, please? i'm gonna give you an email.",2,3.259999999999991,False,False,True,0.3182
+351.56,351.96,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,yes.,1,0.39999999999997726,False,False,True,0.4019
+352.83,355.24,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,okay. #[breath] send it to a reservations,2,2.410000000000025,False,False,True,0.2263
+356.22,358.81,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"hol~ hold on, hold on. #[noise] i have to wri~ do i need to write this down?",1,2.589999999999975,False,False,True,0.0
+359.31,362.28,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"yes, sir, because you need to send the receipt to that email.",2,2.9699999999999704,False,False,True,0.4019
+362.85,364.49,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yeah, hold on, let me a pen.",1,1.6399999999999864,False,False,True,0.296
+365.14,365.79,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,sure.,2,0.6500000000000341,False,False,True,0.3182
+366.49,367.62,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"okay, go ahead (()).",1,1.1299999999999955,False,False,True,0.2263
+368.25,370.4,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,reservations plural.,2,2.1499999999999773,False,False,True,0.0
+371.35,373.64,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,reservations plural. okay.,1,2.2899999999999636,False,False,True,0.2263
+373.64,374.74,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,at,2,1.1000000000000227,False,False,True,0.0
+375.42,375.95,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,yes.,1,0.5299999999999727,False,False,True,0.4019
+376.21,377.7,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,vacation owners,2,1.490000000000009,False,False,True,0.0
+378.1,378.98,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#[noise] yes.,1,0.8799999999999955,False,False,True,0.4019
+378.98,380.98,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,dot #[noise] net.,2,2.0,False,False,True,0.0
+381.5,382.15,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,dot net.,1,0.6499999999999773,False,False,True,0.0
+382.64,383.02,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,okay.,1,0.37999999999999545,False,False,True,0.2263
+383.69,389.13,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"and then you can go ahead and send it over to me, please let me know. can you send it right now?",2,5.439999999999998,False,False,True,0.3182
+389.61,396.72,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"#ah i also have here i left the agreement in the car, which really isn't the brightest thing in the world either. but hold on, let me finish my (()).",1,7.110000000000014,False,False,True,-0.0366
+397.28,398.79,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,i #[phatic] know i left it in the car.,1,1.5100000000000477,False,False,True,0.0
+398.79,401.18,unknown,unknown,nan,2.3899999999999864,True,False,False,0.0
+401.18,401.92,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"oh here it is, hold on.",1,0.7400000000000091,False,False,True,0.0
+402.73,403.28,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,sure.,2,0.5499999999999545,False,False,True,0.3182
+404.24,408.57,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yeah no, i left i left it in the car (()) get it. well hold on, hold on, hold on.",1,4.329999999999984,False,False,True,0.2732
+409.32,410.12,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"sure, no problem.",2,0.8000000000000114,False,False,True,-0.3818
+410.7,417.04,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yep, i did i left, i left it in the car. so #um i'll go down and get it only takes a few minutes. wait can i get your name?",1,6.340000000000032,False,False,True,0.296
+418.02,418.8,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,it's blanca.,2,0.7800000000000296,False,False,True,0.0
+419.37,420.09,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,blanca. okay.,1,0.7199999999999704,False,False,True,0.2263
+420.34,426.99,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"mhm. #[lipsmack] so let me just go ahead and place you in a brief hold, i will reach out to the rental company and now right back with you, okay?",2,6.650000000000034,False,False,True,0.25
+427.31,430.96,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"sure, but before you do. is it b l a n c a or b l a n k a?",1,3.6499999999999773,False,False,True,0.1655
+431.82,432.49,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,c a.,2,0.6700000000000159,False,False,True,0.0
+433.32,434.62,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"b l a n c a, okay.",1,1.3000000000000114,False,False,True,0.2263
+434.93,436.38,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,okay #[overlap_start] alright. #[overlap_end],1,1.4499999999999886,False,False,True,0.4404
+435.6,440.99,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[overlap_start] (()) just #[overlap_end] bear with me one moment #[phatic] on the line martin. and i'll be #[phatic] right back with you.,2,5.389999999999986,False,False,True,0.0
+440.99,442.06,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,okay. yep.,1,1.0699999999999932,False,False,True,0.4767
+442.06,443.81,unknown,unknown,nan,1.75,True,False,False,0.0
+443.81,452.64,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"thank you for holding martin, i do apologize for the delay. i'm still trying to get through with the rental company, okay? i'm sorry for delay. #[phatic] bear with me one more moment more? please?",2,8.829999999999984,False,False,True,0.5101
+453.07,453.47,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,sure.,1,0.4000000000000341,False,False,True,0.3182
+454.52,459.68,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"thank you so much. #[noise] thank you so much for holding, i do apologize the long delay.",2,5.160000000000025,False,False,True,0.4767
+460.51,462.23,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"#[noise] i'm here blanca, it's okay.",1,1.7200000000000273,False,False,True,0.2263
+462.23,463.6,unknown,unknown,nan,1.3700000000000045,True,False,False,0.0
+463.6,465.6,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"okay, did you manage to get your receipt?",2,2.0,False,False,True,0.2263
+466.21,472.03,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"wait. if i went to get it, i would have lost you in the elevator, so no, i have to go and get it.",1,5.819999999999993,False,False,True,-0.6329
+472.3,484.81,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"oh. #[laugh] okay, no problem then. so go ahead and send it over to me. i spoke to dollar and yes indeed, they weren't able to find the reservation.#[breath] cause apparently, it seems as if this was not confirmed at dollar.",2,12.509999999999991,False,False,True,-0.0772
+485.31,498.01,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"so what we need to do is we need to work on our request for this. but in order for me to submit the refund request, we need to go ahead and i have you send us the receipt for the new rental that was made, okay?",2,12.699999999999989,False,False,True,0.3291
+498.01,501.23,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,and that way we can #[phatic] go ahead and ((process)) the refund request (()).,2,3.2200000000000273,False,False,True,0.0
+501.63,507.07,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"well, here here's the question of why, why that doesn't seem necessary. let me o~ let me just offer this to you, okay?",1,5.439999999999998,False,False,True,0.4588
+507.86,516.46,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so what my wife wanted us to do was just take an uber and say we don't need a rental car. so what if we had just said, we'll take an uber and we're not going to get a rental car at all?",1,8.600000000000023,False,False,True,0.0
+517.09,520.35,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"you wouldn't need tho~ you wouldn't need the receipt in that case, right?",1,3.259999999999991,False,False,True,0.0
+520.75,523.44,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"yes, we would, #ah bank statement.",2,2.6900000000000546,False,False,True,0.4019
+524.27,525.13,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,a bank statement?,1,0.8600000000000136,False,False,True,0.0
+526.01,528.7,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"yes, where it reflects the charge for the uber.",2,2.6900000000000546,False,False,True,0.4019
+529.34,534.8,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"oh okay, okay, ((good play)). all right, fair enough. so then you answered my question, thank you, thank you for that.",1,5.459999999999923,False,False,True,0.8442
+534.94,535.36,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,(()),1,0.4199999999999591,False,False,True,0.0
+535.44,538.92,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"yeah, see what happens. okay. yeah see what happens martin is that",2,3.4799999999999045,False,False,True,0.6486
+539.44,540.55,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,sorry about that. go ahead.,2,1.1099999999999,False,False,True,-0.0772
+541.1,543.7,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"go head, you ((just)) tell me what happens, ((i i'm listening)).",1,2.6000000000000227,False,False,True,0.0
+543.7,544.92,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,see #um.,2,1.2199999999999136,False,False,True,0.0
+545.47,559.94,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"what happens is that you have to, you know, we are a third party company, right? so we go #[phatic] through our suppliers. so in order for us to request something from the suppliers, they will always, trust me. they will always ask for backup.",2,14.470000000000027,False,False,True,0.7184
+559.94,569.25,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"#er. #[phatic] do you know, for us to give them backup #[breath] for them to, you know, be able to work with every request we are asking for.",2,9.309999999999945,False,False,True,0.0
+569.25,577.04,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"#[breath] that's why i'm asking #[phatic] you for a receipt so that in the longer run, if i submit the request afterwards, you know, they're not #[phatic] going to ask me for that again.",2,7.789999999999964,False,False,True,0.0
+577.52,591.37,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"you know, #[phatic] and i will be to give them that because you know, i don't have it. so that's why i'm asking you to send it over. #[phatic] you know, as soon as possible that way, the better the quicker we get it, the better because we can start working on this.",2,13.850000000000023,False,False,True,0.7003
+591.8,597.06,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yep and really the best i'll be able to get it soon. so we're we're both we agree on it. so, so here's the question.",1,5.259999999999991,False,False,True,0.8473
+597.37,599.85,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,which part of the agreement you need it? there're multiple pages.,1,2.480000000000018,False,False,True,0.4939
+600.56,604.68,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#ah the one where you just made the reservation basically and how much you paid?,2,4.1200000000000045,False,False,True,0.0
+605.49,607.33,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"okay, that's fair enough. #[phatic] okay, good.",1,1.8400000000000318,False,False,True,0.7906
+608.64,610.83,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"okay, #[overlap_start] great then (()) #[overlap_end]",2,2.1900000000000546,False,False,True,0.7184
+609.06,610.83,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"#[overlap_start] i was just, i #[overlap_end]",1,1.7700000000000955,False,False,True,0.0
+610.83,612.7,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"thank you blanca, i appreciate your help very much.",1,1.8700000000000045,False,False,True,0.7845
+612.85,622.47,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"no problem about that, martin. the request will be submitted, okay? at the moment, i cannot go ahead and guarantee you anything, because you know, we still have to go through the supplier. #[breath]",2,9.620000000000005,False,False,True,-0.25
+622.47,630.2,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"but the request is there, so i mean, we definitely will go ahead and work on it, and as soon as we get an update, you will be notified. okay, martin?",2,7.730000000000018,False,False,True,0.7427
+630.76,634.98,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yeah. so so here's the, now now we've got through this ((and we're good that we all)) agree on the stuff.",1,4.220000000000027,False,False,True,0.765
+635.74,646.3,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yo~ you guys need to work on your on the on your portal. because when, like i said, if i was in fro~ in front of your customer agent here with other people online waiting for her.",1,10.559999999999945,False,False,True,0.3612
+646.3,652.99,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and i couldn't get through to you at all, because i followed your path through the number, you know to trace",1,6.690000000000055,False,False,True,0.0772
+653.44,661.36,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"and when it said, if you wanna if you want to talk to somebody about an existing reservation, press two. #[noise] but when i press two, it hung up on me.",1,7.919999999999959,False,False,True,0.0387
+661.36,663.15,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"#[lipsmack] #[overlap_start] so, (()) #[overlap_end]",1,1.7899999999999636,False,False,True,0.0
+661.58,662.84,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[overlap_start] oh! what time was it? #[overlap_end],2,1.259999999999991,False,False,True,0.0
+663.73,667.79,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"no, it wasn't just once it happened to me twice. it happened to her once.",1,4.059999999999945,False,False,True,-0.296
+668.37,676.7,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so you say #[overlap_start] that thing. #[overlap_end] i'm yeah, i can tell you what's true it happened in nine fifteen and happened in nine thirty, it happened at quarter to ten.",1,8.330000000000041,False,False,True,0.6124
+668.72,670.46,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"#[overlap_start] at what time, do you know? #[overlap_end]",2,1.740000000000009,False,False,True,0.0
+677.12,678.47,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"sorry, what time was that?",2,1.3500000000000227,False,False,True,-0.0772
+679.23,689.81,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"well, yo~ you need the exact time it happened? it happened it happened every time i did it. we were we were online, we first got there it was around #[noise] quarter to ten.",1,10.579999999999927,False,False,True,0.2732
+690.16,695.0,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,i ((think)) #[overlap_start] ((still quarter to nine)) #[overlap_end] at nine forty-five pacific time.,1,4.840000000000032,False,False,True,0.0
+690.29,691.43,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,#[overlap_start] oh ((i see))! #[overlap_end],2,1.1399999999999864,False,False,True,0.0
+695.3,698.13,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,and then #[keyboard-noise] ten o'clock pacific time and,1,2.830000000000041,False,False,True,0.0
+698.35,702.4,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#er #er it happened to hers. it happened to her first and happened #[phatic] to me twice.,1,4.0499999999999545,False,False,True,0.0
+702.96,707.1,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"so i mean i can't give you the you exact time, but obviously, but that it was around those times.",1,4.139999999999986,False,False,True,0.0
+707.1,713.07,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"cause wa~ if i did it right now, i can guarantee you the same thing will happening. i will record it for #[phatic] you if you want me to.",1,5.970000000000027,False,False,True,0.3182
+713.96,728.04,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"no, i'm asking because it could have possibly been when our office was still closed. but i mean, if it was during that time, it was like #[phatic] what eleven our time and we're all we're we are available from nine am, eastern standard time.",2,14.079999999999927,False,False,True,0.3919
+729.04,740.14,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yo~ #[overlap_start] this wouldn't been (()) #[overlap_end] #[breath] this this would in the time that you open in that case. so your eastern time? there's no question to me. yeah, so, #um, that would, that wouldn't have been the issue (()).",1,11.100000000000023,False,False,True,0.0
+729.04,730.96,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"#[overlap_start] you know, so if that was this case, #[overlap_end]",2,1.9200000000000728,False,False,True,0.0
+740.4,748.73,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"exactly. #[breath] exactly, #[phatic] cause we open at nine am eastern standard time. so i mean, #[phatic] if you called ten pacific,",2,8.330000000000041,False,False,True,0.0
+749.29,754.07,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"i mean, yeah, we would definitely should have answered i'm not sure what happened #[phatic] there.",2,4.780000000000086,False,False,True,0.4475
+754.41,764.6,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,"yeah, and i, and again, i'm, i'm do~ i'm as~, i'm giving you this as a customer service crew. because i'm not just the customer, i'm a consultant. and i'm",1,10.190000000000055,False,False,True,0.5574
+765.13,774.98,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,i'm expecting to give other people the go ahead #er to to use your service. and i i would hate for that anybody that i like #[breath] to have to go through what i went through today.,1,9.850000000000023,False,False,True,-0.296
+775.26,775.81,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,yeah.,2,0.5499999999999545,False,False,True,0.296
+776.62,777.72,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"yeah, i couldn't #[overlap_start] imagine. #[overlap_end]",2,1.1000000000000227,False,False,True,0.296
+777.23,778.23,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,#[overlap_start] right? #[overlap_end] yeah.,1,1.0,False,False,True,0.296
+778.23,782.08,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_2,"i understand there martin. #[breath] and i apologize, you know. #[noise]",2,3.8500000000000227,False,False,True,0.1027
+782.42,783.72,en_US_7fb28717-51b7-4d73-8a73-f9f9f8833720_1,yep. (()) hello?,1,1.3000000000000682,False,False,True,0.296
+0.0,4.29,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"thank you for calling the concierge department my name is ((greece,)) who do i have the pleasure of speaking with today?",1,4.29,False,False,True,0.7351
+4.65,6.05,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yes, hi, this is",2,1.3999999999999995,False,False,True,0.4019
+6.06,7.29,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[pii-name],2,1.2300000000000004,False,True,False,0.0
+7.54,9.01,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"hi, armano!",1,1.4699999999999998,False,False,True,0.0
+9.33,13.48,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,as you're calling from (()) is that the number associated with your account?,1,4.15,False,False,True,0.0772
+13.97,14.74,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yes.,2,0.7699999999999996,False,False,True,0.4019
+14.97,19.23,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, one moment for me to pull up an account ((yeah mister armano, mister armano.))",1,4.26,False,False,True,0.2263
+19.25,19.74,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,all right.,2,0.48999999999999844,False,False,True,0.0
+19.78,26.57,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, well thank you so much mister armano for being a member of well discovery pacific. how may i ((further assist)) your travel needs today?",1,6.789999999999999,False,False,True,0.765
+27.23,34.82,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"hi, i'm just cur~ i'm trying to rent a car, i'm going to ((cargo)) tomorrow (()) whatever it's called.",2,7.59,False,False,True,0.0
+35.44,36.69,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,(()),2,1.25,False,False,True,0.0
+37.45,38.04,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay.,1,0.5899999999999963,False,False,True,0.2263
+38.37,42.13,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,and i'm trying to rent a car once i get there from the airport.,2,3.760000000000005,False,False,True,0.0
+42.85,44.36,unknown,unknown,nan,1.509999999999998,False,False,False,0.0
+44.36,50.9,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yeah. #[no-speech] it's that a possibility or do i have to go to a rental place over there?,2,6.539999999999999,False,False,True,0.296
+52.25,54.44,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,so we could see what we have available at this time.,1,2.1899999999999977,False,False,True,0.0
+55.7,56.46,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,all right.,2,0.759999999999998,False,False,True,0.0
+56.56,65.02,unknown,unknown,nan,8.459999999999994,True,False,False,0.0
+67.7,71.71000000000001,unknown,unknown,nan,4.010000000000005,True,False,False,0.0
+71.8,73.73,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,the ((cabos)) international airport?,1,1.9300000000000068,False,False,True,0.0
+73.77,75.7,unknown,unknown,nan,1.9300000000000068,True,False,False,0.0
+75.74,78.56,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#um i think it's yeah i believe so.,2,2.8200000000000074,False,False,True,0.296
+78.68,86.53999999999999,unknown,unknown,nan,7.859999999999985,True,False,False,0.0
+86.63,91.24,unknown,unknown,nan,4.609999999999999,True,False,False,0.0
+91.4,91.99,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay.,1,0.5899999999999892,False,False,True,0.2263
+93.07,95.28,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"could i, and could i have a pick-up date, please?",1,2.210000000000008,False,False,True,0.3182
+95.32,97.15,unknown,unknown,nan,1.8300000000000125,True,False,False,0.0
+97.19,98.49000000000001,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,pick-up date is tomorrow.,2,1.3000000000000114,False,False,True,0.0
+99.18,101.15,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"can i have a drop-off date, please?",1,1.9699999999999989,False,False,True,0.3182
+101.18,102.85,unknown,unknown,nan,1.6699999999999875,True,False,False,0.0
+102.86,104.92,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,drop-off it is twentieth.,2,2.0600000000000023,False,False,True,0.0
+104.97999999999999,105.9,unknown,unknown,nan,0.9200000000000159,True,False,False,0.0
+105.93,107.19,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,the twenty six? #[noise],1,1.259999999999991,False,False,True,0.0
+108.8,109.52000000000001,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yes.,2,0.7200000000000131,False,False,True,0.4019
+109.97,111.52000000000001,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,could i have a (())?,1,1.5500000000000114,False,False,True,0.0
+111.84,113.52000000000001,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"could i have a pick-up time, please?",1,1.6800000000000068,False,False,True,0.3182
+115.42,116.72999999999999,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#um,2,1.309999999999988,False,False,True,0.0
+117.53999999999999,119.97999999999999,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,i don't know i believe i'm arriving at,2,2.4399999999999977,False,False,True,0.0
+121.34,123.77,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,noon so hold on one second.,2,2.4299999999999926,False,False,True,0.0
+126.54,128.65,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"yes, #[overlap_start] i'm right here okay yes #[overlap_end] i'm right here.",1,2.1099999999999994,False,False,True,0.743
+126.78,128.14,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) #[overlap_end],2,1.3599999999999852,False,False,True,0.0
+128.66,130.99,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"could i ha~ could i have a drop-off time, please?",1,2.3300000000000125,False,False,True,0.3182
+130.99,132.81,unknown,unknown,nan,1.8199999999999932,True,False,False,0.0
+132.85,133.98,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,drop-off time.,2,1.1299999999999955,False,False,True,0.0
+135.27,140.17000000000002,unknown,unknown,nan,4.900000000000006,True,False,False,0.0
+140.2,142.46,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"mhm, ((could you decide)) what drop-off time?",1,2.2600000000000193,False,False,True,0.0
+143.63,146.61,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"i'm i'm looking to see what's my flight time, so.",2,2.980000000000018,False,False,True,0.0
+146.63,149.03,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, well take your time, i'm right here.",1,2.4000000000000057,False,False,True,0.4588
+149.07,150.61,unknown,unknown,nan,1.5400000000000205,True,False,False,0.0
+150.64,151.12,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,((all right.)),2,0.4800000000000182,False,False,True,0.0
+151.15,154.73,unknown,unknown,nan,3.579999999999984,True,False,False,0.0
+155.35,157.07,unknown,unknown,nan,1.7199999999999989,True,False,False,0.0
+157.63,159.38,unknown,unknown,nan,1.75,True,False,False,0.0
+160.0,160.85,unknown,unknown,nan,0.8499999999999943,True,False,False,0.0
+160.86,163.65,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, #uh probably around one pm.",2,2.789999999999992,False,False,True,0.2263
+164.26,165.25,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, one pm.",1,0.9900000000000091,False,False,True,0.2263
+166.34,166.68,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yes.,2,0.3400000000000034,False,False,True,0.4019
+166.82,170.55,unknown,unknown,nan,3.730000000000018,True,False,False,0.0
+170.57999999999998,179.05,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, let me see what we have available for that time. oh and #um it was one pm for picking it up also, am i correct?",1,8.470000000000027,False,False,True,0.2263
+179.07,180.16,unknown,unknown,nan,1.0900000000000034,True,False,False,0.0
+180.17,181.4,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yes, twelve thirty to one.",2,1.2300000000000182,False,False,True,0.4019
+181.81,182.81,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] one (()).#[overlap_end],2,1.0,False,False,True,0.0
+182.2,182.67,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] okay.#[overlap_end],1,0.46999999999999886,False,False,True,0.0
+184.46,186.72,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, so.",1,2.259999999999991,False,False,True,0.2263
+186.76,191.08,unknown,unknown,nan,4.320000000000022,True,False,False,0.0
+191.24,193.79,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,will you be dropping it off at the same location?,1,2.549999999999983,False,False,True,0.0
+193.81,194.8,unknown,unknown,nan,0.9900000000000091,True,False,False,0.0
+194.84,195.97,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,at the airport yeah.,2,1.1299999999999955,False,False,True,0.296
+196.34,199.87,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,so that's ((done)) there's the twenty first to the twenty fifth.,1,3.530000000000001,False,False,True,0.0
+199.94,201.63,unknown,unknown,nan,1.6899999999999977,True,False,False,0.0
+201.66,204.2,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"#um i ((it's)) only, hold on.",2,2.539999999999992,False,False,True,0.0
+204.66,207.21,unknown,unknown,nan,2.5500000000000114,True,False,False,0.0
+207.31,210.98,unknown,unknown,nan,3.6699999999999875,True,False,False,0.0
+211.01,212.72,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yeah, dropping off on the twenty fifth.",2,1.710000000000008,False,False,True,0.296
+212.82,214.02,unknown,unknown,nan,1.200000000000017,True,False,False,0.0
+214.05,214.69,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay.,1,0.6399999999999864,False,False,True,0.2263
+214.72,215.95,unknown,unknown,nan,1.2299999999999898,True,False,False,0.0
+216.04,222.22,unknown,unknown,nan,6.180000000000007,True,False,False,0.0
+222.25,227.73,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, #um just to clarify something can i please (()) let me just confirm something, ((please?))",1,5.47999999999999,False,False,True,0.4939
+227.8,229.19,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,sure go ahead.,2,1.3899999999999864,False,False,True,0.3182
+229.37,230.52,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay (()).,1,1.1500000000000057,False,False,True,0.2263
+230.69,233.47,unknown,unknown,nan,2.780000000000001,True,False,False,0.0
+233.51,235.47,unknown,unknown,nan,1.960000000000008,True,False,False,0.0
+235.51,236.69,unknown,unknown,nan,1.1800000000000068,True,False,False,0.0
+236.76,237.92000000000002,unknown,unknown,nan,1.160000000000025,True,False,False,0.0
+237.98,241.68,unknown,unknown,nan,3.700000000000017,True,False,False,0.0
+241.73,244.5,unknown,unknown,nan,2.7700000000000102,True,False,False,0.0
+244.56,245.48,unknown,unknown,nan,0.9199999999999875,True,False,False,0.0
+245.52,246.93,unknown,unknown,nan,1.4099999999999966,True,False,False,0.0
+246.97,248.5,unknown,unknown,nan,1.5300000000000011,True,False,False,0.0
+248.85,253.39,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"#[noise] (()) #[noise] yes, hello!",2,4.539999999999992,False,False,True,0.4574
+253.46,259.79,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"i'm still here trying to confirm something about this i know but #um just give me a moment could i ((place you on a brief hold)), please?",1,6.3300000000000125,False,False,True,0.4497
+259.82,260.66,unknown,unknown,nan,0.8400000000000318,True,False,False,0.0
+260.7,261.94,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yes, yes go ahead.",2,1.240000000000009,False,False,True,0.6597
+262.43,263.54,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, thank you so much!",1,1.1100000000000136,False,False,True,0.5707
+263.66,268.17,unknown,unknown,nan,4.509999999999991,True,False,False,0.0
+268.19,269.0,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,hello!,1,0.8100000000000023,False,False,True,0.0
+269.03,270.02,unknown,unknown,nan,0.9900000000000091,True,False,False,0.0
+270.04,270.33,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yes.,2,0.2899999999999636,False,False,True,0.4019
+270.36,272.47,unknown,unknown,nan,2.1100000000000136,True,False,False,0.0
+272.47,272.69,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,hi!,2,0.21999999999997044,False,False,True,0.0
+272.71,274.86,unknown,unknown,nan,2.150000000000034,True,False,False,0.0
+275.24,278.92,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"#[overlap_start] yes, #[overlap_end] i'm, yes i'm still looking into the prices on this ((year)).",1,3.680000000000007,False,False,True,0.6597
+275.24,275.73,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] hello! #[overlap_end],2,0.4900000000000091,False,False,True,0.0
+278.93,280.36,unknown,unknown,nan,1.4300000000000068,True,False,False,0.0
+280.39,280.75,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,hello?,1,0.36000000000001364,False,False,True,0.0
+280.78,281.79,unknown,unknown,nan,1.0100000000000477,True,False,False,0.0
+281.8,282.72,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yes, i'm listening.",2,0.9200000000000159,False,False,True,0.4019
+284.89,285.3,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,so,1,0.410000000000025,False,False,True,0.0
+285.32,285.98,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yes, i'm right here.",2,0.660000000000025,False,False,True,0.4019
+286.0,288.64,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"yes, #[overlap_start] i'm still #[overlap_end] looking into the prices here because #[breath]",1,2.6399999999999864,False,False,True,0.4019
+286.4,286.97,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] ((i'm sorry!)) #[overlap_end],2,0.57000000000005,False,False,True,0.0
+289.13,298.38,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"yes, ((there's)) yes they're changing ((and changing)) at the moment just please give me a moment. i'm so sorry i'm taking #um (()) but i have to look into this.",1,9.25,False,False,True,0.4551
+299.27,301.13,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,it's all right. #[overlap_start] (()) #[overlap_end],2,1.8600000000000136,False,False,True,0.0
+299.8,302.97,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] i'm still just confirming #[overlap_end] something here.,1,3.170000000000016,False,False,True,0.0
+303.81,305.72,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] okay thank you #[overlap_end] so much.,1,1.910000000000025,False,False,True,0.5267
+303.54,304.76,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] all right no problem. (()) #[overlap_end],2,1.2199999999999704,False,False,True,-0.5994
+306.1,307.14,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,(()),2,1.0399999999999636,False,False,True,0.0
+307.29,308.13,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay.,1,0.839999999999975,False,False,True,0.2263
+308.18,309.59,unknown,unknown,nan,1.4099999999999682,True,False,False,0.0
+309.64,313.28,unknown,unknown,nan,3.6399999999999864,True,False,False,0.0
+314.97,321.8,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, so we already confirmed why the prices have been like this. #[no-speech] one moment.",1,6.829999999999984,False,False,True,0.5267
+322.18,325.58,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, #[breath] (()) cabos international airport from the",1,3.3999999999999773,False,False,True,0.2263
+325.81,326.88,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,twenty first,1,1.0699999999999932,False,False,True,0.0
+326.99,340.47,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"at one pm to the twenty fifth at one pm also, #um we have an intermediate car, ((a precise)) car, we have a standard car the compact i'm just ((naming the type of cars,)) economy",1,13.480000000000018,False,False,True,0.0
+340.62,342.43,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,there's also the premium car.,1,1.8100000000000023,False,False,True,0.0
+343.56,352.0,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,there's economy sports utility vehicle that's #uh ki~ kinda big. then there's the standard sports utility vehicle that's a red one.,1,8.439999999999998,False,False,True,0.0
+352.73,356.17,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, let me ask you what kind of car i'm looking for maybe it will be easier.",2,3.4399999999999977,False,False,True,0.5719
+357.04,357.46,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,mhm.,1,0.4199999999999591,False,False,True,0.0
+357.46,360.99,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"is there, is there any way #[no-speech] can you hear me?",2,3.5300000000000296,False,False,True,0.0
+361.57,362.49,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"yes, i could hear you.",1,0.9200000000000159,False,False,True,0.4019
+362.81,367.97,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yeah, is there any way we can check for a jeep (())? or a #[overlap_start] jeep ((sahara?)) #[overlap_end]",2,5.160000000000025,False,False,True,0.3736
+367.13,367.8,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] a jeep? #[overlap_end],1,0.6700000000000159,False,False,True,0.0
+368.88,369.1,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yeah.,2,0.22000000000002728,False,False,True,0.296
+369.14,371.86,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, let me see if we have any jeeps available.",1,2.7200000000000273,False,False,True,0.2263
+371.89,376.01,unknown,unknown,nan,4.1200000000000045,True,False,False,0.0
+376.04,379.66,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"when i checked the website there wasn't, i'm not sure ((if there's any.))",2,3.6200000000000045,False,False,True,0.1808
+380.88,385.95,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"#[noise] #uh no, we don't have any jeeps available at the moment.",1,5.069999999999993,False,False,True,-0.296
+385.98,388.31,unknown,unknown,nan,2.329999999999984,True,False,False,0.0
+388.35,388.94,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,okay.,2,0.589999999999975,False,False,True,0.2263
+389.01,389.92,unknown,unknown,nan,0.910000000000025,True,False,False,0.0
+389.94,390.28,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,yeah.,1,0.339999999999975,False,False,True,0.296
+390.31,391.55,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#um,2,1.240000000000009,False,False,True,0.0
+393.39,397.44,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, so is there any other mid tier suvs, like a toyota rav four?",2,4.050000000000011,False,False,True,0.5267
+398.39,399.45,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, let me see.",1,1.0600000000000023,False,False,True,0.2263
+399.48,402.64,unknown,unknown,nan,3.159999999999968,True,False,False,0.0
+403.7,405.6,unknown,unknown,nan,1.900000000000034,True,False,False,0.0
+405.63,409.15999999999997,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,well there is this economy suv.,1,3.5299999999999727,False,False,True,0.2732
+410.79,412.7,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,okay which is #uh how much?,2,1.9099999999999682,False,False,True,0.2263
+412.77,414.04,unknown,unknown,nan,1.2700000000000387,True,False,False,0.0
+414.07,415.53,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#um there's the,1,1.4599999999999795,False,False,True,0.0
+416.09000000000003,419.76,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,((gif range)) and that is seventy seven dollars a day.,1,3.669999999999959,False,False,True,0.0
+419.79,422.47,unknown,unknown,nan,2.680000000000007,True,False,False,0.0
+422.5,424.31,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"all right, anything cheaper? #[noise]",2,1.8100000000000023,False,False,True,0.0
+424.35,425.5,unknown,unknown,nan,1.1499999999999773,True,False,False,0.0
+425.52,430.09,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"yes, we do have cheaper, then there's the #um #[noise]",1,4.569999999999993,False,False,True,0.4019
+431.57,433.79,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"there's the, one moment.",1,2.2200000000000273,False,False,True,0.0
+434.71,439.63,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,(()) that is fourteen dollars a day which give you a total of fifty six dollar.,1,4.920000000000016,False,False,True,0.0
+439.67,441.51,unknown,unknown,nan,1.839999999999975,True,False,False,0.0
+441.53,442.11,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,what car is that?,2,0.5800000000000409,False,False,True,0.0
+443.6,456.44,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"that is the, it's an economy suv (()) #[no-speech] (()) budget and it's fourteen dollars a day which give you a total of fifty six dollars i want you to know that this price does not include taxes made by the #um",1,12.839999999999975,False,False,True,0.0772
+456.84000000000003,457.68,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,car rentals.,1,0.839999999999975,False,False,True,0.0
+458.36,459.8,unknown,unknown,nan,1.4399999999999977,True,False,False,0.0
+459.84000000000003,463.29,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"#uh how much are the taxes you know, or am i gonna find out over there?",2,3.4499999999999886,False,False,True,0.0
+463.90999999999997,473.76,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"well i could, they do have additional taxes such a,s i could name you some of them but we don't have all (()) with the car rental, #[overlap_start] but what i could do is i #[overlap_end]",1,9.850000000000023,False,False,True,0.1406
+472.36,473.79,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] ((but do you know how much))#[overlap_end],2,1.4300000000000068,False,False,True,0.0
+473.82,474.79,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,(()),2,0.9700000000000273,False,False,True,0.0
+475.79,481.98,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"no, but what i could do is i could call the car rental and i can check for all fees they have. if that's okay with you.",1,6.189999999999998,False,False,True,0.1901
+482.7,484.82,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, so what kind of car is this again?",2,2.1200000000000045,False,False,True,0.2263
+485.28,488.75,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,this a economy (()) vehicle.,1,3.4700000000000273,False,False,True,0.0
+489.33,491.56,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, but wha~ what brand of a car is it?",2,2.230000000000018,False,False,True,0.1154
+492.22,493.64,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#uh let me get it here.,1,1.419999999999959,False,False,True,0.0
+493.66,495.76,unknown,unknown,nan,2.099999999999966,True,False,False,0.0
+495.79,497.58,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,it's a (()),1,1.7899999999999636,False,False,True,0.0
+498.42,499.13,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,a what?,2,0.7099999999999795,False,False,True,0.0
+499.67,502.19,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,a (()),1,2.519999999999982,False,False,True,0.0
+502.78,503.3,unknown,unknown,nan,0.5200000000000387,True,False,False,0.0
+504.22,505.86,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,(()),2,1.6399999999999864,False,False,True,0.0
+507.01,508.28,unknown,unknown,nan,1.2699999999999818,True,False,False,0.0
+509.86,511.3,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) what's the (())? #[overlap_end],2,1.4399999999999977,False,False,True,0.0
+510.15,510.72,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] did you hear me? #[overlap_end],1,0.57000000000005,False,False,True,0.0
+512.21,513.91,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,it's a chrysler? #[noise],2,1.6999999999999318,False,False,True,0.0
+514.88,523.69,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"#um no, okay, let me spell it out 'cause maybe you're not understanding me. #[overlap_start] it's r #[overlap_end] yeah r e n a u l t",1,8.81000000000006,False,False,True,0.2263
+519.99,520.87,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] okay. #[overlap_end],2,0.8799999999999955,False,False,True,0.2263
+524.66,528.09,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,then another word c a p t u r.,1,3.4300000000000637,False,False,True,0.0
+530.49,531.76,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#uh (()) one.,2,1.2699999999999818,False,False,True,0.0
+532.24,532.82,unknown,unknown,nan,0.5800000000000409,True,False,False,0.0
+533.22,538.27,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,c a p t u r #[no-speech] captur.,1,5.0499999999999545,False,False,True,0.0
+539.55,541.22,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"oh it's a renault, okay.",2,1.6700000000000728,False,False,True,0.2263
+541.31,543.06,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"mhm, yeah.",1,1.75,False,False,True,0.296
+543.35,543.85,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,all right.,2,0.5,False,False,True,0.0
+544.41,545.68,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] so #uh #[overlap_end],1,1.2699999999999818,False,False,True,0.0
+544.41,545.68,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) #[overlap_end],2,1.2699999999999818,False,False,True,0.0
+547.45,555.0,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,what i could do is i could ca~ i could call the #um car company and i could ask them what other fees they do include in that.,1,7.5499999999999545,False,False,True,0.0
+556.37,558.21,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"#[overlap_start] (()), #[overlap_end] is that okay?",1,1.8400000000000318,False,False,True,0.2263
+556.48,557.42,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] okay. #[overlap_end],2,0.9399999999999409,False,False,True,0.2263
+559.05,560.02,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,sure sure.,2,0.9700000000000273,False,False,True,0.5574
+560.05,562.34,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, well is this your best contact number?",1,2.2900000000000773,False,False,True,0.8176
+563.69,565.82,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yes, are you gonna call me back or do i just hold?",2,2.1299999999999955,False,False,True,0.4019
+566.31,572.12,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#um i'm gonna call you back 'cause at the moment my (()) is is having a technical difficulty so i will give you a call back.,1,5.810000000000059,False,False,True,-0.34
+572.89,577.44,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, why didn't i go ahead and book something? and then once you find out, then i can just #um",2,4.550000000000068,False,False,True,0.2263
+578.37,581.25,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"i could tell you yeah that's okay, #[breath] are you on the website also?",1,2.8799999999999955,False,False,True,0.4767
+582.94,587.16,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"#uh hold on, i can get on the website (()).",2,4.219999999999914,False,False,True,0.0
+587.24,588.33,unknown,unknown,nan,1.0900000000000318,True,False,False,0.0
+589.05,590.5,unknown,unknown,nan,1.4500000000000455,True,False,False,0.0
+591.11,592.1,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,in one minute.,2,0.9900000000000091,False,False,True,0.0
+592.63,593.42,unknown,unknown,nan,0.7899999999999636,True,False,False,0.0
+594.13,595.35,unknown,unknown,nan,1.2200000000000273,True,False,False,0.0
+597.92,603.76,unknown,unknown,nan,5.840000000000032,True,False,False,0.0
+603.8,605.28,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"okay, i'm on the website (()).",2,1.4800000000000182,False,False,True,0.2263
+605.93,613.18,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay well you can do your bookings and i'm gonna call #[breath] the car company. #uh will you be booking the same car?,1,7.25,False,False,True,0.4588
+614.56,619.93,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"well i don't know there's like too many options here, i don't know which one i'm gonna book, that's #[overlap_start] why i wanted #[overlap_end] to do it with you.",2,5.3700000000000045,False,False,True,-0.0026
+618.19,619.05,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#[overlap_start] because. #[overlap_end],1,0.8599999999999,False,False,True,0.0
+619.94,622.95,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,yeah because i will need to know #um,1,3.009999999999991,False,False,True,0.296
+623.41,633.86,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"what car company to contact 'cause there is alamo, enterprise, budget, valor, thrifty and i would need to know which #um car company i would need to contact.",1,10.450000000000045,False,False,True,0.0
+634.29,635.83,unknown,unknown,nan,1.5400000000000773,True,False,False,0.0
+635.85,637.75,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"oh oh i see, so you just want me to.",2,1.8999999999999773,False,False,True,0.144
+638.28,644.04,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"(()) i book in here economy car, compact full size car or (()) car?",2,5.759999999999991,False,False,True,0.0
+644.49,653.25,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"mhm, #[overlap_start] whatever #[overlap_end] one you want then just select it will start off with the cheapest one which is budget, or whatever which one is the cheapest ((it will start off)).",1,8.759999999999991,False,False,True,0.0772
+645.48,646.21,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) #[overlap_end],2,0.7300000000000182,False,False,True,0.0
+653.75,656.81,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,okay i'm looking here right now it's a sport,2,3.0599999999999454,False,False,True,0.2263
+656.88,657.62,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,hold on,2,0.7400000000000091,False,False,True,0.0
+657.92,660.71,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yes sport economy sport utility vehicle.,2,2.7900000000000773,False,False,True,0.4019
+660.97,661.49,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,yeah.,1,0.5199999999999818,False,False,True,0.296
+661.51,663.57,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,for twelve dollars a day.,2,2.060000000000059,False,False,True,0.0
+664.35,667.24,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"economy sports utility vehicle, let me see if i find that.",1,2.8899999999999864,False,False,True,0.0
+667.77,670.68,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,it's the same car it is a renault captur.,2,2.909999999999968,False,False,True,0.0
+673.72,677.03,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"#um okay, yes uh-huh.",1,3.3099999999999454,False,False,True,0.5574
+678.76,680.23,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,and it's going (()).,2,1.4700000000000273,False,False,True,0.0
+680.76,681.43,unknown,unknown,nan,0.6699999999999591,False,False,False,0.0
+682.17,683.11,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,yes it's on budget.,1,0.9400000000000546,False,False,True,0.4019
+683.14,685.77,unknown,unknown,nan,2.6299999999999955,True,False,False,0.0
+686.28,687.19,unknown,unknown,nan,0.9100000000000819,True,False,False,0.0
+690.41,692.66,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,oh 'cause ((you have to run the search again)).,2,2.25,False,False,True,0.0
+693.95,694.7,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,mhm.,1,0.75,False,False,True,0.0
+695.5,698.18,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,oh hang ((how to do )).,2,2.67999999999995,False,False,True,0.0
+698.64,702.04,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,yeah so (()) from budget what i can do is i could call them.,1,3.3999999999999773,False,False,True,0.296
+703.18,703.9,unknown,unknown,nan,0.7200000000000273,True,False,False,0.0
+704.07,705.59,unknown,unknown,nan,1.5199999999999818,True,False,False,0.0
+706.84,709.22,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,okay so which one do i,2,2.3799999999999955,False,False,True,0.2263
+709.87,710.11,unknown,unknown,nan,0.2400000000000091,True,False,False,0.0
+710.66,716.61,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,which one do i chose here? #um (()) plaza or do i go for (()) whatever?,2,5.9500000000000455,False,False,True,0.0
+718.91,721.65,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,#uh is that under location section?,1,2.740000000000009,False,False,True,0.0
+722.34,728.69,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yeah the location and it gives me two options for location but (()) airport so which one is the airport?,2,6.350000000000023,False,False,True,0.1531
+728.72,732.1,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay you type in s j d that that is the airport (()).,1,3.3799999999999955,False,False,True,0.2263
+733.94,741.52,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#uh do i so the ((pick-up)) location (()) cabos. #[noise],2,7.579999999999927,False,False,True,0.0
+741.53,743.99,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,mhm #[overlap_start] s j d. #[overlap_end],1,2.4600000000000364,False,False,True,0.0
+742.21,743.34,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) #[overlap_end],2,1.1299999999999955,False,False,True,0.0
+745.58,746.06,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,one moment.,2,0.4799999999999045,False,False,True,0.0
+746.06,748.41,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,and then it will provide you with that airport.,1,2.3500000000000227,False,False,True,0.0
+748.41,750.04,unknown,unknown,nan,1.6299999999999955,True,False,False,0.0
+750.04,752.39,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,s j d.,2,2.3500000000000227,False,False,True,0.0
+752.43,752.95,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,mhm.,1,0.5200000000000955,False,False,True,0.0
+753.52,756.0,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,los cabos international airport all right.,2,2.480000000000018,False,False,True,0.0
+756.76,758.9,unknown,unknown,nan,2.1399999999999864,True,False,False,0.0
+758.93,760.29,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,then you fill in your dates.,1,1.3600000000000136,False,False,True,0.0
+761.96,763.33,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,yeah i put the dates in.,2,1.3700000000000045,False,False,True,0.296
+764.08,764.87,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,and time.,1,0.7899999999999636,False,False,True,0.0
+764.92,765.72,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,(()),2,0.8000000000000682,False,False,True,0.0
+768.3,770.39,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,then you run the search again.,1,2.090000000000032,False,False,True,0.0
+771.34,772.05,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,okay.,2,0.7099999999999227,False,False,True,0.2263
+773.89,775.9,unknown,unknown,nan,2.009999999999991,True,False,False,0.0
+777.19,778.8,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"all right, there you go. ((thank you.))",2,1.6099999999999,False,False,True,0.0
+778.86,779.4,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,okay.,1,0.5399999999999636,False,False,True,0.2263
+779.44,783.23,unknown,unknown,nan,3.7899999999999636,True,False,False,0.0
+783.25,785.01,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,and then once you go down.,1,1.759999999999991,False,False,True,0.0
+785.04,786.8,unknown,unknown,nan,1.759999999999991,True,False,False,0.0
+786.81,787.73,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,it will give you that.,1,0.9200000000000728,False,False,True,0.0
+787.76,789.89,unknown,unknown,nan,2.1299999999999955,True,False,False,0.0
+789.92,792.22,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,oh okay so (()) giving me that.,2,2.300000000000068,False,False,True,0.5542
+793.11,795.7,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"mhm, #[noise] #[overlap_start] and that's the budget. #[overlap_end]",1,2.590000000000032,False,False,True,0.0
+794.49,796.12,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) #[overlap_end],2,1.6299999999999955,False,False,True,0.0
+797.11,802.58,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"yeah, so it's forty one fifty (()) so this would be (()) at the airport, right?",2,5.470000000000027,False,False,True,0.296
+802.61,803.12,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,mhm.,1,0.5099999999999909,False,False,True,0.0
+803.14,804.77,unknown,unknown,nan,1.6299999999999955,True,False,False,0.0
+804.78,807.78,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,okay perfect so i i really don't need to,2,3.0,False,False,True,0.6808
+808.56,809.57,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"do anything else, right?",2,1.0100000000001046,False,False,True,0.0
+810.64,817.71,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"no. #[noise] #[no-speech] you just, are you, you will you be booking on your end or you want me to book it on my end?",1,7.07000000000005,False,False,True,-0.2263
+818.14,819.6,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,no no i'm able to book it here.,2,1.4600000000000364,False,False,True,-0.5267
+820.07,821.82,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, #[overlap_start] so. #[overlap_end]",1,1.75,False,False,True,0.2263
+820.62,822.17,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] (()) book it here. #[overlap_end],2,1.5499999999999545,False,False,True,0.0
+822.17,825.13,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"do you, #[overlap_start] do you still want me, #[overlap_end] do you still want me to call you?",1,2.9600000000000364,False,False,True,0.1531
+822.73,823.56,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,#[overlap_start] all right. #[overlap_end],2,0.8299999999999272,False,False,True,0.0
+825.13,826.12,unknown,unknown,nan,0.9900000000000091,False,False,False,0.0
+826.12,827.62,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"no, don't worry about it, i'm good.",2,1.5,False,False,True,0.4777
+828.12,831.38,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, was there anything else you would like me to assist you with ((today))?",1,3.259999999999991,False,False,True,0.5267
+831.4,833.09,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"no, i appreciate your help.",2,1.6900000000000546,False,False,True,0.4939
+833.67,843.93,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, well thank you so much for being a member of well discovery pacific and before we end this call i will have to remind you to check your emails for your special (()) that we send each week, ((have you been getting those emails?))",1,10.259999999999991,False,False,True,0.8519
+845.31,846.29,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,((all right.)),2,0.9800000000000182,False,False,True,0.0
+847.09,852.42,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,"okay, that's great well then again my name is (()) thank you for being a member of well discovery pacific and have a great day.",1,5.329999999999927,False,False,True,0.9413
+853.54,855.12,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_2,"it is thank you, bye bye, bye bye!",2,1.580000000000041,False,False,True,0.4199
+855.17,856.96,en_US_a7203127-0f0f-43e0-9ec0-1f28760c2525_1,bye bye!,1,1.7900000000000773,False,False,True,0.0
+0.49,4.34,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,thank you for calling concierge department. my name is wendy. with whom do i have the pleasure of speaking with today?,1,3.8499999999999996,False,False,True,0.7351
+4.4,6.42,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,#[pii-name],2,2.0199999999999996,False,True,False,0.0
+6.46,7.96,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"hi, jason, how are you doing today?",1,1.5,False,False,True,0.0
+8.04,22.32,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,oh not so good. i found out that #ah i'm not able to find any locations that are offering a rental car to throw in my one hundred dollars as bank balance i have ((pennzoil)) i keep searching every single time what is it? but there's no results.,2,14.280000000000001,False,False,True,-0.5878
+22.56,36.78,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"so i think there's something wrong here, today i wanna know if it's possible i could use my #ah pennzoil savings code somewhere else enabled, in order to rent a car that i don't find the booking website really reliable at all,",2,14.220000000000002,False,False,True,-0.4767
+36.86,38.44,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,not really helping to get any cars.,2,1.5799999999999983,False,False,True,-0.2743
+38.54,52.86,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, i understand where you're coming from. really sorry about all the conveniences being caused. we can go ahead and do is that i could try to run the search in my end to see if i could get something there for you. #um if not, but unfortunately, you cannot use your ((bento)) points anywhere else other than the websites there.",1,14.32,False,False,True,0.4034
+53.06,60.44,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, well, i'm pretty sure something's wrong with the website because i'm not it's not getting any results. but anyway, no matter where i search.",2,7.3799999999999955,False,False,True,0.0129
+60.54,75.06,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"i'm really sorry, allow me to go ahead and try to run the search on my end #um, okay, but i would need a phone number that's associated with the account. can you provide that over to me please? okay, it doesn't seem that an account is being pulled up by that number #ah do you think it's associated with an email address you can provide me with please?",1,14.520000000000003,False,False,True,0.8821
+75.26,76.38,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"yes, (()).",2,1.1199999999999903,False,False,True,0.4019
+76.52,85.98,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, one moment. okay, perfect i was able to look at your account thank you for being a member of central travel rewards allow me one moment let me go ahead and try to run the search,",1,9.460000000000008,False,False,True,0.9186
+86.08,91.42,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#uh can you further provide me the information for this car rental? where will it be picked up and dropped off?,1,5.340000000000003,False,False,True,0.0
+91.48,103.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,the series auto series auto center in antioch. find out what options are available i want to find a car that's a sports car that i can rent for around ninety to one hundred and twenty-one dollars for one day.,2,12.079999999999998,False,False,True,0.0772
+103.6,105.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"for one day, what will be the specific date sir?",1,1.960000000000008,False,False,True,0.0
+105.6,106.08,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,today.,2,0.480000000000004,False,False,True,0.0
+106.14,106.5,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,today.,1,0.35999999999999943,False,False,True,0.0
+106.6,109.18,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,the earliest possible times today.,2,2.5800000000000125,False,False,True,0.0
+109.3,110.58,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"in antioch, correct?",1,1.2800000000000011,False,False,True,0.0
+110.62,110.9,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,correct.,2,0.28000000000000114,False,False,True,0.0
+110.96000000000001,113.7,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"allow me one moment. that's antioch, california?",1,2.739999999999995,False,False,True,0.2263
+113.74000000000001,113.96000000000001,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,yes.,2,0.21999999999999886,False,False,True,0.4019
+114.03999999999999,117.18,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"and when will the car be dropped off? tomorrow, the eighteenth, correct?",1,3.140000000000015,False,False,True,0.0
+117.2,117.53999999999999,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,yes.,2,0.3399999999999892,False,False,True,0.4019
+117.62,119.16,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,will you be picking up at noon?,1,1.539999999999992,False,False,True,0.0
+119.2,119.92,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,noon is fine.,2,0.7199999999999989,False,False,True,0.2023
+120.0,121.24,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,and dropping off the same time?,1,1.2399999999999949,False,False,True,0.0
+121.28,121.64,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,right.,2,0.35999999999999943,False,False,True,0.0
+121.72,130.78,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"allow me one moment, yeah, so unfortunately i do see that it's given me the same error. it does say that everything is already sold out for the specific days that you are looking for.",1,9.060000000000002,False,False,True,-0.4051
+130.82,135.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"yeah, but if you look at different time periods, it's gonna say the same thing no matter in in every location.",2,4.740000000000009,False,False,True,-0.2617
+135.62,147.2,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"yeah, so i do see that being pulled up and trying different dates in different locations and i do see that everything is sold out as well #ah yeah, i don't see anything being pulled up there,",1,11.579999999999984,False,False,True,0.6705
+147.32,151.68,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"#um allow me one moment let me see if i could find something in our back inventory for you, okay?",1,4.360000000000014,False,False,True,0.4215
+151.72,154.8,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"yeah, the closest the, the closest location at antioch.",2,3.0800000000000125,False,False,True,0.296
+154.84,166.04,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, one moment here. i'm just trying to see if i could find something here, okay. #um alright, #um okay, so i'm seeing here that for the dates you are looking for i have",1,11.199999999999989,False,False,True,0.6908
+166.06,172.32,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"a economy chevrolet spark, ford fiesta is similar. this is a hertz, it says here",1,6.259999999999991,False,False,True,0.6124
+172.4,173.76,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,which hertz location?,2,1.3599999999999852,False,False,True,0.0
+173.78,182.18,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"all right, allow me one moment, let me try to get that is the only one that i see that is being picked up here #ah the only address that i have is",1,8.400000000000006,False,False,True,0.2263
+182.2,185.32,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[pii-address],1,3.1200000000000045,False,True,False,0.0
+185.36,187.16,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,that is the only thing that i see here.,1,1.799999999999983,False,False,True,0.0
+187.2,197.72,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, if i searched concord myself maybe i could find that and look at it manually. okay i'm searching right now and it says we're unable to find any available vehicles in concord. did you put a specific date or time or something?",2,10.52000000000001,False,False,True,0.4215
+197.76,204.54,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"actually, like i said this is in our back inventory, so it's something that only the agents have access to, so this is",1,6.780000000000001,False,False,True,0.3612
+204.57999999999998,204.82,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,okay.,2,0.2400000000000091,False,False,True,0.2263
+204.84,207.66,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"we see, yeah. so basically,",1,2.819999999999993,False,False,True,0.296
+207.72,209.42000000000002,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,can you give me the list of the offer?,2,1.700000000000017,False,False,True,0.0
+209.44,218.5,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, so i have economy chevrolet spark, ford fiesta or similar this is what hertz. i also have a compact car which is a ford focus, nissan versa or similar. this",1,9.060000000000002,False,False,True,0.7096
+218.52,220.1,unknown,unknown,nan,1.579999999999984,False,False,False,0.0
+220.18,221.36,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,can you go a little slower?,2,1.1800000000000068,False,False,True,0.0
+221.7,229.38,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, sorry about that. that is the compact ford focus, nissan versa or similar. this is to be picked up at",1,7.680000000000007,False,False,True,0.1531
+229.4,232.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[pii-address],1,2.859999999999985,False,True,False,0.0
+232.57999999999998,243.88,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"as well, it says twelve point ninety-two miles from antioch city center. i also have an economy chevrolet spark, ford fiesta or similar, again #ah to be picked up for by",1,11.300000000000011,False,False,True,0.7269
+243.9,247.1,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[pii-address],1,3.1999999999999886,False,True,False,0.0
+247.14,251.1,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,that location say it's closed. can you look at the hertz in monument boulevard?,2,3.960000000000008,False,False,True,0.0
+251.18,251.94,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,#[overlap_start] close. #[overlap_end],2,0.7599999999999909,False,False,True,0.0
+251.18,251.94,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[overlap_start] okay. #[overlap_end],1,0.7599999999999909,False,False,True,0.2263
+252.0,258.88,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, not a problem. so it says here closes at twelve pm as well, so that will be the time that you will be picking up the car, oh.",1,6.8799999999999955,False,False,True,0.6437
+258.92,260.62,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, so which which location?",2,1.6999999999999886,False,False,True,0.2263
+260.64,269.64,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,close it seems that all of them close at twelve pm and then there is no other one to be picked up somewhere else? unfortunately sir.,1,9.0,False,False,True,-0.5574
+269.7,272.14,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,oh so i do have time left to pick it up.,2,2.4399999999999977,False,False,True,0.0
+272.18,278.78,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, so all of them close at twelve pm so i'm i don't know what time you're seeing now, but #ah",1,6.599999999999966,False,False,True,0.1154
+278.86,279.34000000000003,unknown,unknown,nan,0.4800000000000182,False,False,False,0.0
+279.4,282.8,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"i'm on ten, my time now is ten-twenty four am",2,3.400000000000034,False,False,True,0.0
+282.82,294.86,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, cuz i have eleven twenty-four so it doesn't give me a specific time as well, timezone. it is. so it does says here at twelve pm nine am to twelve pm, california.",1,12.04000000000002,False,False,True,0.4588
+294.92,297.76,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"so it's still open, the same location you're talking about.",2,2.839999999999975,False,False,True,0.0
+297.86,299.2,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"yes, that will be #ah",1,1.339999999999975,False,False,True,0.4019
+299.26,303.98,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[pii-address],1,4.720000000000027,False,True,False,0.0
+304.1,305.52,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,#[pii-address],2,1.419999999999959,False,True,False,0.0
+305.6,307.2,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"crow canyon, it says here",1,1.599999999999966,False,False,True,0.0
+307.22,309.52,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[pii-address],1,2.2999999999999545,False,True,False,0.0
+309.62,312.94,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"wait a minute, i thought you said so none of the concord locations are open right now?",2,3.319999999999993,False,False,True,0.0
+313.0,315.5,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,no sir unfortunately not. all of them are closed.,1,2.5,False,False,True,-0.5574
+315.58,322.06,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"and the only one is in saloma. okay, that's that's fine. let me see what can you tell me the options available in that location?",2,6.480000000000018,False,False,True,0.4019
+322.14,337.06,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"#um, okay, so for that one i have an economy chevrolet spark, ford fiesta are similar, that is the only one and then i have a compact car, which is also at the crow canyon for a ford focus, nissan versa similar as well.",1,14.920000000000016,False,False,True,0.7906
+337.15999999999997,341.1,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,i'm looking for something around a hundred or hundred and between ninety and one hundred and twenty dollars.,2,3.9400000000000546,False,False,True,0.0
+341.12,341.9,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,okay.,1,0.7799999999999727,False,False,True,0.2263
+341.98,345.84000000000003,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,san ramon? is that the only location where you're able to find anything near me?,2,3.8600000000000136,False,False,True,0.0
+345.86,355.92,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"yeah, so like i said, everything else is already closed. the only one that will close at twelve is the one in crow canyon place santa monica, california.",1,10.060000000000002,False,False,True,0.6115
+356.02,361.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, so i have about thirty minutes to make i have about an hour over an hour (()) to make it over there. so",2,5.240000000000009,False,False,True,0.2263
+361.34,361.8,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,yes.,1,0.4600000000000364,False,False,True,0.4019
+361.86,375.1,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"can we #ah get, give me the list of #ah cars that have a six cylinder, eight cylinder i'm look, i'm only interested i'm not interested in economy car. so you could avoid that, but i just want to make sure",2,13.240000000000009,False,False,True,0.6562
+375.18,381.02,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"you have, give me a list of cars that are between eighty to one hundred and twenty dollars and i could rent for one day.",2,5.839999999999975,False,False,True,0.0
+381.06,381.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,alright.,1,0.19999999999998863,False,False,True,0.25
+381.3,383.62,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,and starting with the most expensive one.,2,2.319999999999993,False,False,True,0.0
+383.64,395.92,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, allow me one moment. so for the prices that i see here on my end, i do see that they are a bit cheap, so i'm just trying to see more or less the information that i could go ahead and give out to you.",1,12.28000000000003,False,False,True,0.4215
+395.94,399.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, that's fine. i mean if you could start from the most expensive one, top to bottom.",2,3.6200000000000045,False,False,True,0.5809
+399.6,408.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, okay so i have here a #ah one ~ a premium, buick regal, regal or similar. this is",1,8.95999999999998,False,False,True,0.4215
+408.58,409.22,unknown,unknown,nan,0.6400000000000432,False,False,False,0.0
+409.28,412.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"wait, can you go slower? i want to type it down. buick regal",2,2.980000000000018,False,False,True,0.0772
+412.3,413.02,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,or similar.,1,0.7199999999999704,False,False,True,0.0
+413.02,414.42,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"what, what type of buick regal is it?",2,1.400000000000034,False,False,True,0.0
+414.54,419.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"it just as premium buick regal or similar, that is the car type there, it doesn't really",1,5.019999999999982,False,False,True,0.0
+419.56,420.94,unknown,unknown,nan,1.3799999999999955,False,False,False,0.0
+420.96,426.92,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, oh i see, so i see what you mean, twenty-seventeen buick regal turbo premium?",2,5.960000000000036,False,False,True,0.2263
+426.92,428.28,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#ah yeah.,1,1.3599999999999568,False,False,True,0.296
+428.32,429.82,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, and how much is that for?",2,1.5,False,False,True,0.2263
+430.04,433.5,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, so this one is for ninety-seven dollars total.",1,3.4599999999999795,False,False,True,0.2263
+433.5,436.92,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"i'm not interested in that one, can you go on to the next one?",2,3.420000000000016,False,False,True,-0.3089
+436.92,442.6,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#um okay. i have a luxury chrysler three hundred or similar.,1,5.680000000000007,False,False,True,0.2263
+442.62,443.22,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,and how much is that?,2,0.6000000000000227,False,False,True,0.0
+443.22,444.86,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,this is for eighty total.,1,1.6399999999999864,False,False,True,0.0
+444.86,445.38,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,what year?,2,0.5199999999999818,False,False,True,0.0
+445.4,451.64,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, this one does not specify which year it is exactly, it just gives me the equivalent three hundred or similar.",1,6.240000000000009,False,False,True,0.2263
+451.64,456.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, so what, what, will you find out? if i booked that one? can you find out?",2,4.6200000000000045,False,False,True,0.3485
+456.28,461.58,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"#ah for that, that will have to be directly with the agency and i would have to give them a call to see.",1,5.300000000000011,False,False,True,0.0
+461.62,467.65999999999997,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, can you find out if any of those locations open tomorrow? (()) if not, i'll just book it today.",2,6.039999999999964,False,False,True,0.2263
+467.9,472.64,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"mm okay, okay. is it okay if i place you on a brief hold while i try to see if i can get some information there?",1,4.740000000000009,False,False,True,0.5719
+472.64,473.3,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,yeah.,2,0.660000000000025,False,False,True,0.296
+473.3,474.78,unknown,unknown,nan,1.4799999999999613,True,False,False,0.0
+474.78,478.74,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,good morning! thank you for calling hertz car ramon. my name is patty. how can i help you?,3,3.9600000000000364,False,False,True,0.8122
+478.74,481.02,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"hi patty, this is wendy calling from",1,2.2799999999999727,False,False,True,0.0
+481.02,483.08,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,#[pii-work],1,2.0600000000000023,False,True,False,0.0
+483.46,497.46,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"i just have a question about a car here. i wanted to know more or less about the luxury car. this one is for a, allow me to get you that specific information there. this is the chrysler three hundred or similar. i just wanted to know more or less what year this is.",1,14.0,False,False,True,0.2263
+497.6,498.96,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,are you in the rental right now?,3,1.3599999999999568,False,False,True,0.0
+498.96,508.44,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"#ah no, but i'm actually trying to place a reservation for one of my clients but he wants to know #ah the exact year of this luxury chrysler three hundred.",1,9.480000000000018,False,False,True,-0.1531
+508.44,522.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,"oh okay, let me check that for you. i'm gonna ~ chrysler three hundred, chrysler three hundred is we don't have one right now, but most of our cars are our, our new we don't have a chrysler three hundred right now.",3,13.819999999999993,False,False,True,0.1154
+522.28,525.76,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, so if i placed this reservation for today, it wouldn't be available?",1,3.480000000000018,False,False,True,0.2263
+525.76,528.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,"no, it would not. we don't have a chrysler three hundred.",3,2.7999999999999545,False,False,True,-0.296
+528.56,528.84,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,okay,1,0.2800000000000864,False,False,True,0.2263
+528.88,530.06,unknown,unknown,nan,1.17999999999995,False,False,False,0.0
+530.06,530.7,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,to three hundred,3,0.6400000000001,False,False,True,0.0
+530.76,532.12,unknown,unknown,nan,1.3600000000000136,False,False,False,0.0
+532.16,532.82,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,excuse me?,3,0.6600000000000819,False,False,True,0.0772
+532.86,535.0,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,(()) #[overlap_start] ma'am yeah? #[overlap_end].how can i help you?,1,2.1399999999999864,False,False,True,0.644
+532.86,535.0,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,#[overlap_start] ma'am #[overlap_end] how can i help you?,3,2.1399999999999864,False,False,True,0.4019
+535.0,544.1,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, i just wanted to know, more or less what cars are available at the moment because he needs to pick this car up today and i see that you guys are closing at twelve pm",1,9.100000000000023,False,False,True,0.2263
+544.12,544.54,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,yes.,3,0.4199999999999591,False,False,True,0.4019
+544.54,546.02,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,so he needs a luxury car?,3,1.4800000000000182,False,False,True,0.0
+546.02,557.74,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,he said he just wants to know more. he was interested in this one but you said that they're not really available at the moment. so i don't want to go ahead and place that and that when he arrives it's not there. so more or less what are the cars that you have available?,1,11.720000000000027,False,False,True,0.0596
+557.76,559.38,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,#um i'm gonna put you on a brief hold.,3,1.6200000000000045,False,False,True,0.0
+559.38,559.68,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,okay.,1,0.2999999999999545,False,False,True,0.2263
+559.68,568.02,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_3,"right now we are waiting on return, we don't have anything available right at the moment. would you like me to take your name and number and call you when something comes available?",3,8.340000000000032,False,False,True,0.4215
+568.02,582.9,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"#um all right, so is it okay if i give you guys a call back because nor he said that he needs the car today, so more or less in about an hour. so i'll go ahead and and send him this information just to inform him that i don't see that there's anything available",1,14.879999999999995,False,False,True,0.2878
+582.9,590.64,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"at the moment directly with you guys. and i'll see what i can fix with him. okay, then if he decides,i can give you guys a call back. thank you very much.",1,7.740000000000009,False,False,True,0.5267
+590.64,592.0,unknown,unknown,nan,1.3600000000000136,False,False,False,0.0
+592.1,593.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,bye bye. #[beep] hello?,1,1.1599999999999682,False,False,True,0.0
+593.26,593.94,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"yes, i'm here.",2,0.6800000000000637,False,False,True,0.4019
+593.94,608.42,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"thank you for holding, okay, so i just got in contact with the agency and they explained that there are no cars available at the moment, and that is why we were seeing that there is nothing available #uh neither for any dates",1,14.479999999999905,False,False,True,0.296
+608.7,623.56,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"on the website since it is, you know, close to california with the same agency. so they told me that there is nothing available and they're waiting on returns. so if we go ahead and book with hertz, that would not be possible there since that is the only one that i'm seeing that is available",1,14.8599999999999,False,False,True,0.0
+623.56,626.54,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,at the moment here for the specific location and date.,1,2.980000000000018,False,False,True,0.0
+626.68,629.3,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, so can i go ahead and book with them for the chrysler three hundred?",2,2.6200000000000045,False,False,True,0.2263
+629.38,644.26,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, so like i said, if i if you go ahead, and like i said, there is no car available, and the luxury chrysler isn't available, as well as for what she just told me. so it wouldn't really be recommended to go ahead and place a reservation for today or either tomorrow because",1,14.879999999999995,False,False,True,0.3968
+644.56,650.72,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,it would not be available now since they are just waiting on returns at the moment. they don't have any cars available.,1,6.160000000000082,False,False,True,0.0
+650.72,657.78,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,(()) can you find out can you do some more searching to see if there's any other locations besides hertz that have cars?,2,7.059999999999945,False,False,True,0.0
+657.78,660.62,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"okay, allow me one moment then. sir, are you there?",1,2.840000000000032,False,False,True,0.4215
+660.62,661.2,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,yes.,2,0.5800000000000409,False,False,True,0.4019
+661.2,675.8,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"all right, perfect #ah. it seems that for the dates that you looking for since it would be from today to tomorrow, or either tomorrow or you know, the nineteenth it really does tell me that there is nothing available for the dates that you are looking for, or these",1,14.599999999999909,False,False,True,0.5719
+675.8,688.58,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"#ah specific locations. i already tried antioch, concord, and i don't see anything being pulled up there for the dates that you are requesting to have this car. and everything that i try says that they are already sold out.",1,12.780000000000086,False,False,True,0.0
+688.58,694.22,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay can you find out if there's any location close to me, in concord or any other city near me, for tomorrow?",2,5.639999999999986,False,False,True,0.2263
+694.22,702.44,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"sure, okay, i'm trying everything in california. and it doesn't seem that every anything is giving me a location there. i've tried #ah",1,8.220000000000027,False,False,True,0.6808
+702.5,703.8,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"okay, what about to monday?",2,1.2999999999999545,False,False,True,0.2263
+703.84,716.32,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"i've been changing the data. and i don't see that there is nothing available. all of it tells me that they're sold out for any dates, because i've tried from the seventeen up to the twenty nine. and i don't see any availability.",1,12.480000000000018,False,False,True,0.0
+716.32,729.54,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_2,"yeah but when i look directly at the website for different (()) website, it says there is availability, but most likely related to (()) at all.",2,13.219999999999914,False,False,True,0.1531
+729.54,738.06,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"yeah, well, like i said, i'm actually not specifically on the website. i'm in my back inventory and i still don't see that there is nothing available.",1,8.519999999999982,False,False,True,0.7003
+738.06,738.64,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,hello?,1,0.5800000000000409,False,False,True,0.0
+738.64,741.82,en_US_7a4f56d7-9aca-4ed5-96b9-9c9c36b8a3ac_1,"hello? for quality assurance and training purposes, i'll be disconnecting this call.",1,3.1800000000000637,False,False,True,0.34
